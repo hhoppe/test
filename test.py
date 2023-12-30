@@ -15,3 +15,11 @@
 # #### Local link
 # <img src="images/lake.png" width="120"/>
 # <img src="images/lake.png">
+#
+# #### Conclusions
+#
+# The result is that only images from local links are shown when the notebook is previewed on github.com
+#
+# When the notebook is opened as https://colab.research.google.com/github/hhoppe/test/blob/main/test.ipynb,
+# the local images are copied.
+# Therefore, local links seem best!
