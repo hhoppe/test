@@ -1,0 +1,8 @@
+# Created manually hh 2024-11-23
+newmtl defaultMat
+map_Kd MCh_S_12_Rzezba_Popiersie_Rozy_Loewenfeld.jpg
+Ka 1.0 1.0 1.0  # No effect.
+# Ka 2.0 2.0 2.0  # No effect.
+# Kd 1.0 1.0 1.0  # No effect due to map_Kd.
+# Ks 0.5 0.5 0.5  # Metallic.
+# illum 1  # No effect.
